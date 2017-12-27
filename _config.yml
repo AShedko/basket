@@ -25,7 +25,7 @@ copyright:
    link: 'http://ashedko.github.io'
 
 # Build settings
-markdown: kramdown
+markdown: maruku
 permalink: /:title/
 paginate: 6
 paginate_path: /page:num/
