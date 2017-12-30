@@ -1,8 +1,12 @@
-Demo: [http://webjeda.com/cards](http://webjeda.com/cards)
+## Установка
+* Форкнуть репозиторий
+* Установите источник для Github Pages как master
+* Готово!
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
+## Локально
+* Поставьте Ruby
+* Поставьте Jekyll
+* Запустите jekyll `jekyll serve`
+* Готово!
 
 For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
